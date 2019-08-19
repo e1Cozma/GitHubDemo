@@ -12,6 +12,7 @@ namespace ConsoleAppTest
         {
             //Hey E1!!! this code was edited by a contributor
             // New Edit to test PULL = Fetch + Merge 
+            // Call to new Feature1
         }
     }
 }
